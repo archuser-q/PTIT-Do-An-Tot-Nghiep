@@ -12,7 +12,7 @@ define("DB_ENCODING", "utf8"); // DB connnection charset
 /**
  * Define DB tables
  */
-define("TABLE_PREFIX", "np_");
+define("TABLE_PREFIX", "tn_");
 
 // Set table names without prefix
 define("TABLE_USERS", "users");

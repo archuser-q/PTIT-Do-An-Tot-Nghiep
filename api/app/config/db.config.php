@@ -3,7 +3,7 @@
  * Define database credentials
  */
 define("DB_HOST", "localhost"); 
-define("DB_NAME", "doantotnghiep"); 
+define("DB_NAME", "nextpost"); 
 define("DB_USER", "root"); 
 define("DB_PASS", ""); 
 define("DB_ENCODING", "utf8"); // DB connnection charset
